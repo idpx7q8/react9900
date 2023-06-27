@@ -1,0 +1,25 @@
+.login-page {
+    background-image: url('./loginpage.jpg');
+    background-size: contain;
+    background-position: right top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* 添加其他样式属性，如背景颜色、边距、字体等 */
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+.content{
+  width: 25%;
+  height: 100%;
+}
+h2{
+  text-align: center;
+}
+
+.forgetten{
+  text-decoration: underline;
+  color: #1877f2;
+}
+
+  
